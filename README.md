@@ -7,7 +7,7 @@ Initial Coin Offering (ICO) is the cryptocurrency’s world public crowdsale. Wh
 ## Contracts
 ### Deployed Contract Address (Rinkeby) - [0xc692FE807d4c2ed24C9bb2eB9FF60aBaf8c9ddB1](https://rinkeby.etherscan.io/address/0xc692FE807d4c2ed24C9bb2eB9FF60aBaf8c9ddB1)
 
-### Website - Vercel Host (Make sure to use Rinkeby Chain) [View] ()
+### Website - Vercel Host (Make sure to use Rinkeby Chain) [View] (https://ico-one-virid.vercel.app/)
 
 ### Whitelist Contract Address (Rinkeby) - [0xE9f12E511Dfd123fE7ada94f649e9FB304259E44](https://rinkeby.etherscan.io/address/0xE9f12E511Dfd123fE7ada94f649e9FB304259E44)
 
